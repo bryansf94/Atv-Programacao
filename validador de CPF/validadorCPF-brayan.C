@@ -13,7 +13,7 @@ int main() {
     int multCPF_02[9] = {};
 
     printf("Qual é o número do seu CPF?: \n");
-    scanf("%9s", cpf); // Lê a string do CPF com no máximo 11 caracteres
+    scanf("%s", cpf); // Lê a string do CPF com no máximo 11 caracteres
 
     // Convertendo os primeiros 9 caracteres do CPF para inteiros
     for (int i = 0; i < 9; i++) {
@@ -37,7 +37,7 @@ int main() {
     printf("%d\n", PrimeiroNum);
 
     // Loop for para multiplicar cpf(2)
-    mult = 0;
+    mult = -1;
     int multCPFprimeiroNum = PrimeiroNum * 9;
 
     for (int i = 0; i < 9; i++) {
@@ -51,7 +51,7 @@ int main() {
         somaDoSegundoNumCPF += multCPF_02[i];
     }
 
-    // printf("%d\n", somaNumCPF);
+    printf("%d\n", somaNumCPF);
     int segundoNum = somaDoSegundoNumCPF % 11;
     printf("%d\n", segundoNum);
 
