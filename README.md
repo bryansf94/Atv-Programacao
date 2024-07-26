@@ -16,4 +16,6 @@ Ao subir o código os códigos devem ser separados de acordo com a linguagem que
 - PHP: PHP
 - Python: Py
 
+## Dica:
 
+Para consultar documentação da sintaxe de diversas linguagens acesse: https://www.w3schools.com/
