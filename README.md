@@ -4,8 +4,8 @@ Reposítorio feito com o intuíto de treinar programação com a resolução de 
 
 # Como utilizar:
 
-Para contruir basta criar uma basta contendo o algoritimo a ser resolvido, e o código de resolução.
-Ao subir o código os códigos devem ser separados de acordo com a linguagem que foi criado.
+Para contruir basta criar uma pasta contendo o algoritimo a ser resolvido, e o código de resolução.
+Ao subir o código os códigos devem ser separados de acordo com a linguagem que foi criado. Não esqueça também de ondicar no nome do arquivo a autória, exemplo: "verficadorCPF-brayan.C".
 
 ## Exemplo:
 
