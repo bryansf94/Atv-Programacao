@@ -9,11 +9,11 @@ Ao subir o código os códigos devem ser separados de acordo com a linguagem que
 
 ## Exemplo:
 
-js: Java Script
-Jv: Java
-C#: C#
-C: C
-PHP: PHP
-Python: Py
+- js: Java Script
+- Jv: Java
+- C#: C#
+- C: C
+- PHP: PHP
+- Python: Py
 
 
